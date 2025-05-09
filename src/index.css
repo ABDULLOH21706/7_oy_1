@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+img {
+  width: 100%;
+}
+
+button,i {
+  cursor: pointer;
+}
